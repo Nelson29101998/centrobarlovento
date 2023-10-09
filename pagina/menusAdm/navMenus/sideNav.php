@@ -89,7 +89,7 @@
     </a>
     <?php
     $verServer = $_SERVER['SERVER_NAME'];
-    if ($verServer == 'barlovento.herokuapp.com') {
+    if ($verServer == 'centrobarlovento-4379ff6a6396.herokuapp.com') {
         $sacar = "/";
     } else {
         $sacar = "/centroBarlovento/";
